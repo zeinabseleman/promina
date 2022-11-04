@@ -1,0 +1,14 @@
+{
+
+  "password":"Password",
+  "Enter_password":"Enter password",
+  "submit": "Submit",
+  "user_name": "User Name",
+  "enter_name": "Enter Your Name",
+  "email": "Email",
+  "enter_email": "Enter Your Email",
+  "login": "LOG IN",
+  "log_out": "log out",
+  "upload": "upload",
+  "no_data": "No Images"
+}
